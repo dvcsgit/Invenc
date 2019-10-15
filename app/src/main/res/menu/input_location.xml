@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="fpg.ftc.si.pfg_inventory.InputLocation" >
+    <item
+        android:showAsAction="always"
+        android:id="@+id/action_ChangeLocation"
+        android:title="換排"/>
+    <item
+        android:showAsAction="always"
+        android:id="@+id/action_Output"
+        android:title="出庫掃描"/>
+</menu>

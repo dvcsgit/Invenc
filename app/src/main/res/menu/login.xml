@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="fpg.ftc.si.pfg_inventory.Login" >
+    <item
+        android:id="@+id/action_ServerIPSetting"
+        android:title="IP設定"/>
+</menu>
